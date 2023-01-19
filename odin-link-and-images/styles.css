@@ -7,3 +7,10 @@ body {
   p {
     color: rgb(2, 2, 2);
   }
+  .img-container {
+    text-align: center;
+    display: block;
+  }
+  .button {
+    text-align: center;
+  }
