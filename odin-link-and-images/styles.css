@@ -3,9 +3,14 @@ body {
   }
   h1 {
     color: blue;
+    text-align: center;
   }
   p {
     color: rgb(2, 2, 2);
+  }
+  .change{
+    color: rgb(2, 2, 2);
+    text-align: center;
   }
   .img-container {
     text-align: center;
